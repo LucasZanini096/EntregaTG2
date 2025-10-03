@@ -12,6 +12,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.HashMap;
 import java.util.Map;
 
+// Classe Usuário
+
 public class Usuario {
     private String nome;
     private String email;

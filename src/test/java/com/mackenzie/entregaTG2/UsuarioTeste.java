@@ -7,6 +7,8 @@ import static org.junit.Assert.*;
 import java.util.HashMap;
 import java.util.Map;
 
+// Classe de Teste de Usuário
+
 public class UsuarioTeste {
 
     private Usuario usuario;
